@@ -81,7 +81,7 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
   </a>
 
-  <a href= "https://www.youtube.com/channel/UCi0O98Lu_XV7iStN7ObawDw">
+  <a href= "https://www.youtube.com/@naveenanilrobotics">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/youtube.png" alt="youtube"/>
   </a>
 	
