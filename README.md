@@ -89,7 +89,7 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
   </a> -->
 
-  <a href= "https://github.com/nvnani/nvnani/profile/Resume-Naveen Anil.pdf">
+  <a href= "https://github.com/nvnani/nvnani/main/profile/Resume-Naveen Anil.pdf">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
   </a>
 	
